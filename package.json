@@ -1,0 +1,13 @@
+{
+	"name": "tic-tac-toe-new",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"watch:sass": "/style.css -w"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {}
+}
